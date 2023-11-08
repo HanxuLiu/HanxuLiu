@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](./img/coder.gif)
+
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HanxuLiu&theme=nord_bright)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HanxuLiu&theme=nord_bright)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HanxuLiu&theme=nord_bright)
+
+![](./img/hidog.gif)
